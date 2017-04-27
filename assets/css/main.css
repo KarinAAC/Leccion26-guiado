@@ -1,0 +1,13 @@
+#contenedor{
+  text-align: center;
+  font-family: "Arial";
+  font-size: 11px;
+  padding: 45px;
+}
+#contenedor .input{
+    width: 15%;
+}
+#contenedor textarea{
+  font-family: "Arial";
+  width: 15%;
+}
